@@ -1,7 +1,7 @@
-#rorriM Web
+﻿# rorriM Web
 .bew fo noisrev tnereffid a su evig
 give us a different version of web.
-##Usage
+## Usage
  - Step 1
      - Download or copy the source code down until you get rorrim.html file.
  - Step 2
@@ -11,10 +11,10 @@ give us a different version of web.
      - e.g. 
          - .../rorrim.html?www.bilibili.com
 
-#####Have fun.
-##Keywords
+##### Have fun.
+## Keywords
 CSS,HTML
-##Details
+## Details
 ```css
 
 	<html>
