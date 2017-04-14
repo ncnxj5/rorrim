@@ -4,9 +4,11 @@
 
 give us a different version of web.
 
-[click here](https://ncnxj5.github.io/rorrim/)
+[Click here](https://ncnxj5.github.io/rorrim/)
 
-[if use chrome](https://ncnxj5.github.io/rorrim/?www.bilibili.com/video/av250315/?from=search&seid=16507576300859115115)
+[Have A Search ?](https://ncnxj5.github.io/rorrim/index.html?www.baidu.com)
+
+[Watch A Video ?](https://ncnxj5.github.io/rorrim/index.html?www.bilibili.com/video/av250315/?from=search&seid=16507576300859115115)
 
 ## Usage
  - Step 1
