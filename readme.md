@@ -1,14 +1,18 @@
 ﻿# rorriM Web
-
+=============
 .bew fo noisrev tnereffid a su evig
 
 give us a different version of web.
 
 [Click here](https://ncnxj5.github.io/rorrim/)
 
-[Have A Search ?](https://ncnxj5.github.io/rorrim/index.html?www.baidu.com)
+[Have A `Search` ?](https://ncnxj5.github.io/rorrim/index.html?www.baidu.com)
 
-[Watch A Video ?](https://ncnxj5.github.io/rorrim/index.html?www.bilibili.com/video/av250315/?from=search&seid=16507576300859115115)
+[Watch A `Video` ?](https://ncnxj5.github.io/rorrim/index.html?www.bilibili.com/video/av250315/?from=search&seid=16507576300859115115)
+
+[Send An `Email` ?](https://ncnxj5.github.io/rorrim/index.html?mail.qq.com)
+
+[]()
 
 ## Usage
  - Step 1
